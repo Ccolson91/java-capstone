@@ -2,7 +2,7 @@
 
 ## Summary
 
-(Java Capstone) allows customer-facing businesses to use customer data to build automated marketing systems to connect with their audience and increase conversion rates. Users can register and login to their account, input customers to be assigned to pre-defined buyer profiles, and create automated email marketing sequences based on purchase history, average number of visits, and more. 
+(Java Capstone) allows customer-facing businesses to use customer data to build automated marketing systems to connect with their audience and increase conversion rates. Users can register and login to their account, input customers to be assigned to pre-defined buyer profiles, and use automated email marketing sequences based on purchase history, average number of visits, and more. 
  
 ## MVP
 
