@@ -9,7 +9,8 @@
 ## Pages
 - signup/signin page
 - add client(s) page
-- design emails
+- email creation page
+- data analytics page
 
 ## User is able to
 - register for a new account
